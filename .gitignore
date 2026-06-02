@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & model files
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.joblib
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+# Data (confidential TTI/TxDOT project)
+data/
+*.xlsx
+*.csv
